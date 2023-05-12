@@ -1,7 +1,8 @@
 {
   "collectionName": "components_heroes_parallax_sections",
   "info": {
-    "displayName": "ParallaxSection"
+    "displayName": "ParallaxSection",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -15,6 +16,23 @@
       "type": "text"
     },
     "BackgroundImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "ButtonLink": {
+      "type": "string"
+    },
+    "Icon": {
       "allowedTypes": [
         "images",
         "files",
@@ -23,12 +41,6 @@
       ],
       "type": "media",
       "multiple": false
-    },
-    "ButtonText": {
-      "type": "string"
-    },
-    "ButtonLink": {
-      "type": "string"
     }
   }
 }
