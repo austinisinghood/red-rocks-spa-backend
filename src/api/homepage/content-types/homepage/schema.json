@@ -30,6 +30,11 @@
     },
     "LearnMoreLink": {
       "type": "string"
+    },
+    "Service1": {
+      "type": "component",
+      "repeatable": false,
+      "component": "heroes.parallax-section"
     }
   }
 }
