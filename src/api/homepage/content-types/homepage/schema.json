@@ -31,25 +31,8 @@
     "LearnMoreLink": {
       "type": "string"
     },
-    "Service1": {
-      "type": "component",
-      "repeatable": false,
-      "component": "heroes.parallax-section"
-    },
-    "Service2": {
-      "type": "component",
-      "repeatable": false,
-      "component": "heroes.parallax-section"
-    },
-    "Service3": {
-      "type": "component",
-      "repeatable": false,
-      "component": "heroes.parallax-section"
-    },
-    "Service4": {
-      "type": "component",
-      "repeatable": false,
-      "component": "heroes.parallax-section"
+    "YouTubeVideoUrl": {
+      "type": "string"
     }
   }
 }

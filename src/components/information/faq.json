@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_information_faqs",
+  "info": {
+    "displayName": "FAQ"
+  },
+  "options": {},
+  "attributes": {
+    "QA": {
+      "displayName": "QuestionAnswer",
+      "type": "component",
+      "repeatable": true,
+      "component": "information.question-answer"
+    }
+  }
+}
