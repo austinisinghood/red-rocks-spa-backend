@@ -1,0 +1,34 @@
+{
+  "kind": "singleType",
+  "collectionName": "business_infos",
+  "info": {
+    "singularName": "business-info",
+    "pluralName": "business-infos",
+    "displayName": "BusinessInfo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "BusinessName": {
+      "type": "string"
+    },
+    "BusinessSummary": {
+      "type": "text"
+    },
+    "BusinessAddress": {
+      "type": "text"
+    },
+    "BusinessHours": {
+      "type": "text"
+    },
+    "BusinessPhoneNumber": {
+      "type": "string"
+    },
+    "BusinessEmail": {
+      "type": "string"
+    }
+  }
+}
