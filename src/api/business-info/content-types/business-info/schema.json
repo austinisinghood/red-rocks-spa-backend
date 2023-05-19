@@ -29,6 +29,9 @@
     },
     "BusinessEmail": {
       "type": "string"
+    },
+    "BookingLink": {
+      "type": "string"
     }
   }
 }
