@@ -1,8 +1,16 @@
 {
   "collectionName": "components_information_question_answers",
   "info": {
-    "displayName": "QuestionAnswer"
+    "displayName": "QuestionAnswer",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "Question": {
+      "type": "text"
+    },
+    "Answer": {
+      "type": "text"
+    }
+  }
 }
