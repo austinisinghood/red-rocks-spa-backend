@@ -32,6 +32,9 @@
     },
     "BookingLink": {
       "type": "string"
+    },
+    "HoursTest": {
+      "type": "richtext"
     }
   }
 }
